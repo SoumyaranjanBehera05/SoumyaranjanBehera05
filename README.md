@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soumyaranjan Behera</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align ="right" alt="coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"
+<img align ="right" alt="coding" width="300" src="![image](https://github.com/user-attachments/assets/d25097ad-eec4-40c3-9803-97e89030d03f)
+"
 
 - 👯 I’m Currently learning **HTML, CSS, JS ,Bootstrap ,react ,Java**
 
