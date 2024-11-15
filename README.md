@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align ="right" alt="coding" width="300" src="![image](https://github.com/user-attachments/assets/d25097ad-eec4-40c3-9803-97e89030d03f)
-"
+">
 
 - 👯 I’m Currently learning **HTML, CSS, JS ,Bootstrap ,react ,Java**
 
