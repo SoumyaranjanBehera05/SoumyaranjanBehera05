@@ -1,3 +1,5 @@
+![logo](https://github.com/SoumyaranjanBehera05/SoumyaranjanBehera05/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Soumyaranjan Behera</h1>
 <h3 align="center">A passionate Fullstack web developer from India</h3>
 
